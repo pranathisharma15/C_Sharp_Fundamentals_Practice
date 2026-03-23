@@ -228,3 +228,5 @@ C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\obj\Debug
 C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\obj\Debug\net10.0\ProductInventoryAPI.genruntimeconfig.cache
 C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\obj\Debug\net10.0\ref\ProductInventoryAPI.dll
 C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\obj\Debug\net10.0\ProductInventoryAPI.sourcelink.json
+C:\Users\00325100\source\repos\ProductInventoryAPI\ProductInventoryAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
